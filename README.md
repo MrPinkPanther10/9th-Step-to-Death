@@ -15,7 +15,6 @@ The user should clone the repo, must have Node.js and inquirer module installed.
 
 ## Usage 
 Use inquirer from your command prompt to answer a series of questions for the project.
-<iframe src="https://drive.google.com/file/d/1oABkc1mrx0SA4LDUFd2RUHkalTt9S9YM/preview" width="640" height="480"></iframe>
 
 Direct Link for screencastify: https://drive.google.com/file/d/1oABkc1mrx0SA4LDUFd2RUHkalTt9S9YM/view
 
