@@ -15,6 +15,8 @@ The user should clone the repo, must have Node.js and inquirer module installed.
 
 ## Usage 
 Use inquirer from your command prompt to answer a series of questions for the project.
+![How to use professional README generator](https://user-images.githubusercontent.com/90013822/147394377-2ae2e1a0-cdeb-4be8-aece-65d5d224252b.gif)
+
 
 Direct Link for screencastify: https://drive.google.com/file/d/1oABkc1mrx0SA4LDUFd2RUHkalTt9S9YM/view
 
